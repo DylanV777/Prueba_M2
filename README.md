@@ -6,7 +6,7 @@ A simple website about rock music, using HTML and CSS, with an unremarkable desi
  
 ## Project files
 - `index.html` — Main rock page
-- `styles.css` — Site styles
+- `style.css` — Site styles
 - 
 ## Technologies used
 - HTML5
